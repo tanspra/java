@@ -1,0 +1,27 @@
+MICROSOFT SOFTWARE LICENSE AGREEMENT
+WINDOWS 8.1 PRO
+Thank you for choosing Microsoft Windows 8.1 Pro. This is a license agreement between you and Microsoft Corporation (or, based on where you live, 
+one of its affiliates) that describes your rights to use the Windows 8.1 Pro software. For your convenience, we’ve organized this agreement into
+ two parts. The first part includes introductory terms phrased in a question and answer format; the Additional Terms and Limited Warranty follow 
+and contain greater detail. You should review the entire agreement, including any linked terms, because all of the terms are important and together4
+create this contract that applies to you. You can review linked terms by pasting the forward link into your browser window once the software is running.
+ The Additional Terms contain a binding arbitration clause and class action waiver. If you live in the United States, these affect your rights to resolve
+ a dispute with Microsoft, so you should read them carefully.
+By accepting this agreement or using the software, you agree to all of these terms and consent to the transmission of certain information during activation
+ and for Internet-based features of the software. If you do not accept and comply with these terms, you may not use the software or its features. Instead,
+ you should return it to the retailer for a refund or credit, if any.
+How can I use the software? We do not sell our software or your copy of it – we only license it. Under our license, we grant you the right to install and 
+run that one copy on one computer (the licensed computer), for use by one person at a time, but only if you comply with all the terms of this agreement. T
+ypically, this means you can install one copy of the software on a personal computer and then you can use the software on that computer. The software is 
+not licensed to be used as server software or for commercial hosting, so you may not make the software available for simultaneous use by multiple users 
+over a network. For more information on multiple user scenarios and virtualization, see the Additional Terms.
+May I make a backup copy? Yes, you may make a single copy of the software for backup purposes, and use that backup copy as described below.
+What about updating the software? If you install the software covered by this agreement as an update to your existing operating system software, 
+the update replaces the original software that you are updating. You do not retain any rights to the original software after you have updated and
+ you may not continue to use it or transfer it in any way. This agreement governs your rights to use the update software and replaces the agreement 
+for the software from which you updated. After you complete your update, some apps may not migrate or may be incompatible with Windows 8.1 Pro and 
+additional software may be required to play back or record certain types of media, including DVDs.
+Can I transfer the software to another computer or user? You may transfer the software to another computer that belongs to you. You may also trans
+fer the software (together with the license) to a computer owned by someone else if a) you are the first licensed user of the software and b) the new user
+ agrees to the terms of this agreement. To make that transfer, you must transfer the original media, the certificate of authenticity, the product key, and
+ the proof of purchase directly to that other person, without retaining any copies of the software. You may use the backup copy we allow you to make or the
